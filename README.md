@@ -2,7 +2,7 @@
 
 ## Brief Description:
 
-![Homepage](https://github.com/AmerFarooq536/Sales-Dashboard/blob/main/Screenshots/Homepage.jpg)
+![Sales Dashboard MainPage](https://github.com/AmerFarooq536/Sales-Dashboard/blob/main/Screenshots/Sales_Dashboard_MainPage.jpg)
 
 This project is aimed at developing a Power BI Dashboard for generating insights about the revenue generated. 
 The dataset used for this project is in the Database Folder where the data is stored in 4 different Excel Sheets.
@@ -10,6 +10,9 @@ The dataset used for this project is in the Database Folder where the data is st
 ## Dashboard Components
 
 ### Homepage
+
+![Homepage](https://github.com/AmerFarooq536/Sales-Dashboard/blob/main/Screenshots/Homepage.jpg)
+
 Card Visuals representing the total revenue, count of orders, and the value for ATP (Average Ticket Price)
 A button navigating to the details of the data
 ### The main sales dashboard

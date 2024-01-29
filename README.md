@@ -2,7 +2,7 @@
 
 ## Brief Description:
 
-[Screenshots/Homepage.jpg](https://github.com/AmerFarooq536/Sales-Dashboard/blob/main/Screenshots/Homepage.jpg)
+![Homepage](https://github.com/AmerFarooq536/Sales-Dashboard/blob/main/Screenshots/Homepage.jpg)
 
 This project is aimed at developing a Power BI Dashboard for generating insights about the revenue generated. 
 The dataset used for this project is in the Database Folder where the data is stored in 4 different Excel Sheets.
